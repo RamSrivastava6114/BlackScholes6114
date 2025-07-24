@@ -190,7 +190,7 @@ The Black-Scholes model is based on a set of assumptions. It's important to be a
 - **No Dividends**: The underlying stock does not pay dividends during the option's life.
 - **Constant Volatility and Risk-Free Rate**: The model assumes that the volatility of the underlying asset and the risk-free interest rate are constant and known.
 - **Log-normal Distribution**: The returns on the underlying asset are assumed to follow a log-normal distribution.
-- **Efficient Markets**: There are no transaction costs, and all available information is reflected in the asset price (no arbitrage opportunities).
+- **Efficient Markets**: There are no transaction costs, and all available information is reflected in the asset price (no arbitrage opportunities)
 
 
 
